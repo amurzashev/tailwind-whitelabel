@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Default theme */
+:root {
+  --button-bg: red;
+  --button-text: white;
+}
